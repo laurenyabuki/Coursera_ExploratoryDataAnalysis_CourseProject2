@@ -4,7 +4,9 @@ Fine particulate matter (PM2.5) is an ambient air pollutant for which there is s
 Additional information about the NEI can be found at the EPA National Emissions Inventory web site (https://www.epa.gov/air-emissions-inventories).
 
 Assignment
-
+The data for this assignment are available from the course web site as a single zip file:
+Data for Peer Assessment
+https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
 The overall goal of this assignment is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999–2008. You may use any R package you want to support your analysis.
 
 Questions
